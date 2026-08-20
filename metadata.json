@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix OrbMotion - fix delay - export - adjust remotion compatible",
+  "description": "Upload audio to create dynamic, transparent gradient orb animations. Export as transparent video files for creative content production.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
